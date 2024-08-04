@@ -1,6 +1,6 @@
 # UGEGreed
 
-Created by Axel BELIN and Thomas VELU for a course in Network programming in JAVA by M. Arnaud CARAYOL.
+Created by [Axel BELIN](https://github.com/AxelBelin) and Thomas VELU for a course in Network programming in JAVA by M. Arnaud CARAYOL.
 
 The [RFC](RFC/rfc-ugegreed-V3.txt) of UGEGreed.  
 
