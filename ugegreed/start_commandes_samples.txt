@@ -1,0 +1,1 @@
+start url-jar=http://www-igm.univ-mlv.fr/~carayol/Factorizer.jar fqn=fr.uge.factors.Factorizer start-range=10 end-range=20 filename=toto.txt
